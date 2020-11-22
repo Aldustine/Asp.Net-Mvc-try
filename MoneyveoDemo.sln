@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyveoDemo", "MoneyveoDemo\MoneyveoDemo.csproj", "{6163C7B4-68B7-41A0-8FA2-B8A36A5D2E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyveoDemo.Tests", "MoneyveoDemo.Tests\MoneyveoDemo.Tests.csproj", "{9742EC90-9460-4741-8C3D-904C85FBF993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6163C7B4-68B7-41A0-8FA2-B8A36A5D2E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6163C7B4-68B7-41A0-8FA2-B8A36A5D2E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6163C7B4-68B7-41A0-8FA2-B8A36A5D2E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6163C7B4-68B7-41A0-8FA2-B8A36A5D2E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9742EC90-9460-4741-8C3D-904C85FBF993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9742EC90-9460-4741-8C3D-904C85FBF993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9742EC90-9460-4741-8C3D-904C85FBF993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9742EC90-9460-4741-8C3D-904C85FBF993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E64892E-7C80-4BD6-8528-3008E21E986E}
+	EndGlobalSection
+EndGlobal
